@@ -1,0 +1,19 @@
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\bin\Debug\TinyScanner.exe.config
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\bin\Debug\TinyScanner.exe
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\bin\Debug\TinyScanner.pdb
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\obj\Debug\TinyScanner.csprojResolveAssemblyReference.cache
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\obj\Debug\TinyScanner.Form1.resources
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\obj\Debug\TinyScanner.Properties.Resources.resources
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\obj\Debug\TinyScanner.csproj.GenerateResource.Cache
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\obj\Debug\TinyScanner.exe
+c:\users\omar abd alrazik\documents\visual studio 2015\Projects\TinyScanner\TinyScanner\obj\Debug\TinyScanner.pdb
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\bin\Debug\TinyScanner.exe.config
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\bin\Debug\TinyScanner.exe
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\bin\Debug\TinyScanner.pdb
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\obj\Debug\TinyScanner.csprojAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\obj\Debug\TinyScanner.Form1.resources
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\obj\Debug\TinyScanner.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\obj\Debug\TinyScanner.csproj.GenerateResource.cache
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\obj\Debug\TinyScanner.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\obj\Debug\TinyScanner.exe
+C:\Users\Mahmoud\Desktop\task compilers\TinyScanner\TinyScanner\obj\Debug\TinyScanner.pdb
